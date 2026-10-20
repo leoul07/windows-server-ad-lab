@@ -1,6 +1,6 @@
 # 💻🔗 Joining a Windows 11 Client to an Active Directory Domain
 
-![Windows 11 Domain Join](./assets/windows11-domain-join-banner.svg)
+![Windows 11 Domain Join](../assets/windows11-domain-join-banner.svg)
 
 <div align="center">
 
