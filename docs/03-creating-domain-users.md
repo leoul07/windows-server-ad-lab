@@ -1,7 +1,7 @@
 # 👥🔑 Creating Domain Users in Active Directory
 
 
-![Creating Domain Users](../assets/creating-domain-users.svg)
+![Creating Domain Users](../assets/creating-domain-users-banner.svg)
 
 
 <div align="center">
