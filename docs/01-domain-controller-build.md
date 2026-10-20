@@ -1,6 +1,6 @@
 # 🏢🔐 Windows Server 2022 Domain Controller and Enterprise Root CA Lab
 
-![Windows Server 2022 DC](./assets/windows-server-ad-pki-lab.svg) 
+![Windows Server 2022 DC](../assets/windows-server-ad-pki-lab.svg) 
 
 [![Windows Server 2022](https://img.shields.io/badge/Windows_Server-2022-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#-architecture-and-environment)
 [![Domain LAB.local](https://img.shields.io/badge/Domain-LAB.local-6E7681?style=for-the-badge)](#-phase-2-promote-the-server-to-a-domain-controller)
