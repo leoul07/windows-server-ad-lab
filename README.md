@@ -53,7 +53,7 @@
 | **Server roles** | AD DS, DNS, Global Catalog, AD CS Enterprise Root CA (`LAB-DC01-CA-1`) |
 | **Identity objects** | Domain users (created with ADUC and PowerShell), 3 OUs plus 1 nested OU, 1 global security group |
 | **Policy** | 1 Group Policy Object linked to the `Engineering` OU |
-| **Documentation** | 5 completed phase write-ups, 1 planned |
+| **Documentation** | 5 completed phase write-ups |
 
 ---
 
