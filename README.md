@@ -11,8 +11,7 @@
 
 [![VirtualBox][b-vbox]](#-lab-architecture)
 [![PowerShell][b-ps]](docs/03-creating-domain-users.md)
-[![Progress][b-progress]](#-phases)
-[![Last Commit][b-commit]](https://github.com/leoul07/windows-server-ad-lab/commits/main)
+
 
 </div>
 
@@ -22,8 +21,7 @@
 [b-pki]: https://img.shields.io/badge/AD_CS-Enterprise_Root_CA-8E24AA?style=for-the-badge&labelColor=6E7681
 [b-vbox]: https://img.shields.io/badge/VirtualBox-Lab_Host-2F61B4?style=for-the-badge&labelColor=6E7681&logo=virtualbox&logoColor=white
 [b-ps]: https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&labelColor=6E7681
-[b-progress]: https://img.shields.io/badge/Phases-5_of_6_Complete-00A88E?style=for-the-badge&labelColor=6E7681
-[b-commit]: https://img.shields.io/github/last-commit/leoul07/windows-server-ad-lab?style=for-the-badge&labelColor=6E7681&color=2EA043
+
 
 > **Summary:** A hands-on Active Directory home lab built in Oracle VirtualBox. It starts with a Windows Server 2022 domain controller (AD DS, DNS, AD CS) and grows phase by phase into a managed Windows environment with domain users, Organizational Units, security groups, and Group Policy. Each phase is documented step by step with screenshots, design decisions, and security considerations.
 
